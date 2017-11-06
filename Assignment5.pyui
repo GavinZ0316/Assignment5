@@ -1,0 +1,274 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {670, 598}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{198, 96}, {79, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "8C462F9B-3B4F-4334-A12D-4FADE34A0B62",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "name" : "textfield4",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{298, 96}, {81, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "name" : "textfield5",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{394, 96}, {81, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield6"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 96}, {184, 48}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{234, 270}, {150, 32}}",
+          "uuid" : "F52130B1-B693-4427-A4DB-E12B60D53C2D",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Computer card total:",
+          "name" : "label1",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{196, 244}, {81, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{298, 244}, {81, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield2"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{394, 244}, {81, 75}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield3"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{196, 408}, {232, 35}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "final_textfield"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 244}, {182, 49}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{234, 270}, {150, 32}}",
+          "uuid" : "95E78004-DF76-45D8-994E-BC7DF774CFA9",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "User card total:",
+          "name" : "label2",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{502, 93}, {81, 51}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "computer_card_total_textfield"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{502, 237}, {81, 56}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{209, 270}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C734BDEF-D8B5-4BAC-989A-F995342FEC9C",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "user_card_total_textfield"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{402, 343}, {113, 30}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "deal_third_card_touch_up_inside",
+          "frame" : "{{269, 270}, {80, 32}}",
+          "title" : "Deal third card",
+          "uuid" : "312CD1B4-26DD-4845-9EAA-8138187E2E84",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{209, 343}, {142, 30}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "deal_my_card_touch_up_inside",
+          "frame" : "{{269, 270}, {80, 32}}",
+          "title" : "Deal my card",
+          "uuid" : "D2F2FAAC-E7E2-495E-884F-33B47D9F5A85",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{19, 408}, {150, 35}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "check_touch_up_inside",
+          "frame" : "{{269, 270}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "17F9DA44-C68B-4C62-A010-865FB400175E",
+          "class" : "Button",
+          "name" : "button3",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
